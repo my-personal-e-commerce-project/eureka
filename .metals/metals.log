@@ -1,0 +1,20 @@
+2025.11.11 15:56:12 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/mauro/project/microservice_laravel/eureka/.metals/lsp.trace.json or /home/mauro/.cache/metals/lsp.trace.json[0m
+2025.11.11 15:56:13 INFO  logging to file /home/mauro/project/microservice_laravel/eureka/.metals/metals.log[0m
+2025.11.11 15:56:13 INFO  Started: Metals version 0.11.2 in workspace '/home/mauro/project/microservice_laravel/eureka' for client coc.nvim 0.0.82.[0m
+2025.11.11 15:56:13 INFO  Parse release: 21.0.8[0m
+2025.11.11 15:56:15 INFO  time: initialize in 2.26s[0m
+2025.11.11 15:56:15 WARN  Build server is not auto-connectable.[0m
+2025.11.11 19:32:10 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/mauro/project/microservice_laravel/eureka/.metals/lsp.trace.json or /home/mauro/.cache/metals/lsp.trace.json[0m
+2025.11.11 19:32:10 INFO  logging to file /home/mauro/project/microservice_laravel/eureka/.metals/metals.log[0m
+2025.11.11 19:32:10 INFO  Started: Metals version 0.11.2 in workspace '/home/mauro/project/microservice_laravel/eureka' for client coc.nvim 0.0.82.[0m
+2025.11.11 19:32:10 INFO  Parse release: 21.0.8[0m
+2025.11.11 19:32:13 INFO  time: initialize in 2.74s[0m
+2025.11.11 19:32:17 WARN  Build server is not auto-connectable.[0m
+2025.11.11 19:32:17 INFO  skipping build import with status 'Requested'[0m
+2025.11.12 09:47:54 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/mauro/project/microservice_laravel/eureka/.metals/lsp.trace.json or /home/mauro/.cache/metals/lsp.trace.json[0m
+2025.11.12 09:47:55 INFO  logging to file /home/mauro/project/microservice_laravel/eureka/.metals/metals.log[0m
+2025.11.12 09:47:55 INFO  Started: Metals version 0.11.2 in workspace '/home/mauro/project/microservice_laravel/eureka' for client coc.nvim 0.0.82.[0m
+2025.11.12 09:47:55 INFO  Parse release: 21.0.8[0m
+2025.11.12 09:47:57 INFO  time: initialize in 1.88s[0m
+2025.11.12 09:48:00 WARN  Build server is not auto-connectable.[0m
+2025.11.12 09:48:00 INFO  skipping build import with status 'Requested'[0m
